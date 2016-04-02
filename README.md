@@ -1,2 +1,2 @@
 # service-core
-Write your web applications independent of HTTP and web frameworks.
+Stop tying your applications to a specific protocol. Write once, call from anywhere.
